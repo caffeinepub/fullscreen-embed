@@ -1,8 +1,8 @@
 export default function App() {
   return (
     <iframe
-      title="Embedded App"
-      src="https://star-stream-copy-bfa3079e.base44.app/"
+      title="Embedded Site"
+      src="https://star-stream-9ffe53a3.base44.app/"
       style={{
         position: "fixed",
         top: 0,
@@ -10,8 +10,6 @@ export default function App() {
         width: "100%",
         height: "100%",
         border: "none",
-        margin: 0,
-        padding: 0,
       }}
       allowFullScreen
     />
