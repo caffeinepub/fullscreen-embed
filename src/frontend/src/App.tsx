@@ -2,7 +2,7 @@ export default function App() {
   return (
     <iframe
       title="Embedded Site"
-      src="https://star-stream-9ffe53a3.base44.app/"
+      src="https://star-stream-copy-77be755b.base44.app/"
       style={{
         position: "fixed",
         top: 0,
